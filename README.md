@@ -41,8 +41,7 @@ Apply the files in the following order:
 1. `deploy-nginx.yaml`
 2. `svc-nginx.yaml`
 3. `hpa-nginx.yaml`
-
-After applying, the Deployment will be running and monitored by the HPA.
+4. `open the load-generator and run the commands`
 
 ---
 
