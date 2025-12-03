@@ -1,0 +1,1 @@
+kubectl run load-generator --image=busybox --rm -it -- /bin/sh
